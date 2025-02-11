@@ -1,0 +1,2 @@
+# EDGeNet
+EEG Denoising Netowrk
